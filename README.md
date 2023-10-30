@@ -1,4 +1,4 @@
-Yoh👋
+Hi👋
 
 - 🔭 I’m currently working on front-end web development.
 - 🌱 I’m currently learning: Python|HTML and CSS|C|Javascript
