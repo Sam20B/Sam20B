@@ -1,7 +1,7 @@
 Hi👋
 
 - 🔭 I’m currently working on frontend web development
-- 🌱 I’m currently learning: Javascript
+- 🌱 I’m currently learning: Angular frameworks
 - 👯 I’m looking to collaborate on: Web page design|UI design
 - 🤔 I’m looking for help with improving my skills in UI design
 - 💬 Ask me about: front-end web development
