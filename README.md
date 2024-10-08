@@ -1,9 +1,9 @@
-Hi👋
+S'up
 
-- 🔭 I’m currently working on frontend web development
-- 🌱 I’m currently learning: Angular frameworks
-- 👯 I’m looking to collaborate on: Web page design|UI design
-- 🤔 I’m looking for help with improving my skills in UI design
-- 💬 Ask me about: front-end web development
+- 🔭 I’m currently working on API development using Node.js and Express.
+- 🌱 I’m currently learning Node.js with a focus on building and working with APIs.
+- 👯 I’m looking to collaborate on Software development.
+- 🤔 I’m looking for help with improving my skills in UI design.
+- 💬 Ask me about front-end web development.
 - 📫 How to reach me: wafulabibiana93@gmail.com
-- ⚡ Fun fact: I'm also an artist making me better at web design
+- ⚡ Fun fact: I'm also an artist making me better at web design.
