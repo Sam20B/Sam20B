@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?height=400&type=waving&text=Took%20you%20long%20enough...&fontAlign=30&fontSize=45&desc=Use%20theme&descAlign=60&descAlignY=50&theme=tokyonight)
+![reversal](https://capsule-render.vercel.app/api?height=250&type=waving&text=Took%20you%20long%20enough...&fontAlign=30&fontSize=45&desc=Use%20theme&descAlign=60&descAlignY=50&theme=tokyonight)
 
 
 S'up
