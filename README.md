@@ -14,3 +14,6 @@ S'up
 
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sam20B&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
