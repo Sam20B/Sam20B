@@ -7,3 +7,4 @@ S'up
 - 💬 Ask me about front-end web development.
 - 📫 How to reach me: wafulabibiana93@gmail.com
 - ⚡ Fun fact: I'm also an artist making me better at web design.
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=Sam20B
