@@ -14,5 +14,4 @@ S'up
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=Sam20B&theme=transparent)](https://git.io/streak-stats)
 
-
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sam20B&theme=tokyonight
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sam20B&theme=tokyonight)
