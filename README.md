@@ -8,4 +8,6 @@ S'up
 - 📫 How to reach me: wafulabibiana93@gmail.com
 - ⚡ Fun fact: I'm also an artist making me better at web design.
 - 🔥 Github Streak!:
+
+  
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Sam20B)](https://git.io/streak-stats)
