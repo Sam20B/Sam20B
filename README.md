@@ -10,4 +10,4 @@ S'up
 - 🔥 Github Streak!:
 
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Sam20B)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Sam20B&theme=transparent)](https://git.io/streak-stats)
