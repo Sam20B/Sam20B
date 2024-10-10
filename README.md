@@ -14,8 +14,4 @@ S'up
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=Sam20B&theme=transparent)](https://git.io/streak-stats)
 
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sam20B&theme=tokyonight)
-
-![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sam20B&theme=tokyonight&exclude=html)
-
-![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sam20B&theme=tokyonight&utcOffset=+03)
+![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sam20B&theme=tokyonight&exclude=html)![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sam20B&theme=tokyonight&utcOffset=+02)
