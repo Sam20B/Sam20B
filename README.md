@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?height=200&type=waving&text=I've%20got%2099%20problems%20but%20a%20fix%20ain't%20one...&fontAlignY=35&fontSize=35&theme=tokyonight)
+![reversal](https://capsule-render.vercel.app/api?height=200&type=waving&text=To%20understand%20recursion,%20you%20must%20first%20understand%20recursion...&fontAlignY=35&fontSize=25&theme=tokyonight)
 
 **S'up**
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me: wafulabibiana93@gmail.com
 - ⚡ Fun fact: I'm also an artist making me better at web design.
 
-# 🔥 Github Streak!
+# 🔥Github Streak!
 
   
  [![GitHub Streak](https://streak-stats.demolab.com?user=Sam20B&theme=tokyonight)](https://git.io/streak-stats)
