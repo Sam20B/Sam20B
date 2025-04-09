@@ -17,4 +17,4 @@
 
 # 📈My Github Stats
 
-![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sam20B&theme=tokyonight&exclude=html)           ![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sam20B&theme=tokyonight&utcOffset=+03)
+![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sam20B&theme=tokyonight&exclude=html)
