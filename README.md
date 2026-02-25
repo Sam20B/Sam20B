@@ -2,11 +2,11 @@
 
 **S'up**
 
-- 🔭 I’m currently working on API development using Node.js and Express.
-- 🌱 I’m currently learning Node.js with a focus on building and working with APIs.
+- 🔭 I’m currently working on AI data cleaning and preprocessing.
+- 🌱 I’m currently learning fixing inconsistent formats.
 - 👯 I’m looking to collaborate on Software development.
-- 🤔 I’m looking for help with improving my skills in UI design.
-- 💬 Ask me about front-end web development.
+- 🤔 I’m looking for help with improving my skills in ML.
+- 💬 Ask me about basic ML concepts.
 - 📫 How to reach me: wafulabibiana93@gmail.com
 - ⚡ Fun fact: I draw too.
 
