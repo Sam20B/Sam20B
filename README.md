@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?height=200&type=waving&text=I%came%I%20saw%20I%20still%20don't%20know%20why%20it%20works...&fontAlignY=35&fontSize=25&theme=tokyonight)
+![reversal](https://capsule-render.vercel.app/api?height=200&type=waving&text=I%20came,%20I%20saw,%20I'm%20%still20debugging%20give%20me%202%20hours...&fontAlignY=35&fontSize=25&theme=tokyonight)
 
 **S'up**
 
